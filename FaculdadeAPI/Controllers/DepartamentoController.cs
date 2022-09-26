@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using FaculdadeUD.InfraStructure.Repository.Interfaces;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using FaculdadeUD.Domain.Model;
 
 namespace FaculdadeAPI.Controllers

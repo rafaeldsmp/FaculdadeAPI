@@ -2,11 +2,6 @@
 using FaculdadeUD.InfraStructure.Data;
 using FaculdadeUD.InfraStructure.Repository.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FaculdadeUD.InfraStructure.Repository.Repositorios
 {
